@@ -1,21 +1,40 @@
 {
-    "name": "karnov-theme",
-    "displayName": "Karnov Theme",
-    "description": "IDE colors from Karnov",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Karnov Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Karnov Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "karnov-theme",
+  "displayName": "Karnov Theme",
+  "description": "IDE colors from Karnov",
+  "publisher": "Optiguy",
+  "icon": "logo.png",
+  "author": {
+    "name": "Bjarke Brask Holm-Rubeksen",
+    "url": "https://github.com/optiguy"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "visual studio code",
+    "themes",
+    "color theme",
+    "dark theme",
+    "theme",
+    "Karnov",
+    "extension"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/optiguy/vscode-karnov"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Karnov Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Karnov Theme-color-theme.json"
+      }
+    ]
+  }
 }
