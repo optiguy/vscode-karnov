@@ -4,6 +4,6 @@
 
 ## Work hard play hard
 
-Keep the tone of the company when working remote of going urban coding.
+Keep the tone of the company when working remote of going urban coding. Let people see and feel the beautiful yellow contrast in a dark theme for visual studio.
 
 **Enjoy!**

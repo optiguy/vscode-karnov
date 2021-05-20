@@ -7,3 +7,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## 0.0.1
+
+- First release of the initial commit
+
+## 0.0.2
+
+- Create scripts for easy deployment
+
+## 0.0.3
+
+- Updated readme file
