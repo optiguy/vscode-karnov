@@ -19,3 +19,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## 0.0.3
 
 - Updated readme file
+
+## 0.0.4
+
+- Moved back readme file from `.github` due to vscode not looking in that folder.
