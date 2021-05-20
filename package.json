@@ -2,13 +2,18 @@
   "name": "karnov-theme",
   "displayName": "Karnov Theme",
   "description": "IDE colors from Karnov",
+  "version": "0.0.2",
   "publisher": "Optiguy",
   "icon": "logo.png",
   "author": {
     "name": "Bjarke Brask Holm-Rubeksen",
     "url": "https://github.com/optiguy"
   },
-  "version": "0.0.1",
+  "scripts": {
+    "bundle": "vsce package",
+    "publish": "vsce publish",
+    "deploy": "npm run bundle && npm run publish"
+  },
   "engines": {
     "vscode": "^1.56.0"
   },
